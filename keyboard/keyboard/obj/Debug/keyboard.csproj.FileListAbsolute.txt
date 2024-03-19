@@ -1,0 +1,15 @@
+C:\Users\zhevr\source\repos\keyboard\keyboard\bin\Debug\keyboard.exe.config
+C:\Users\zhevr\source\repos\keyboard\keyboard\bin\Debug\keyboard.exe
+C:\Users\zhevr\source\repos\keyboard\keyboard\bin\Debug\keyboard.pdb
+C:\Users\zhevr\source\repos\keyboard\keyboard\obj\Debug\keyboard.csproj.AssemblyReference.cache
+C:\Users\zhevr\source\repos\keyboard\keyboard\obj\Debug\MainWindow.g.cs
+C:\Users\zhevr\source\repos\keyboard\keyboard\obj\Debug\App.g.cs
+C:\Users\zhevr\source\repos\keyboard\keyboard\obj\Debug\keyboard_MarkupCompile.cache
+C:\Users\zhevr\source\repos\keyboard\keyboard\obj\Debug\keyboard_MarkupCompile.lref
+C:\Users\zhevr\source\repos\keyboard\keyboard\obj\Debug\MainWindow.baml
+C:\Users\zhevr\source\repos\keyboard\keyboard\obj\Debug\keyboard.g.resources
+C:\Users\zhevr\source\repos\keyboard\keyboard\obj\Debug\keyboard.Properties.Resources.resources
+C:\Users\zhevr\source\repos\keyboard\keyboard\obj\Debug\keyboard.csproj.GenerateResource.cache
+C:\Users\zhevr\source\repos\keyboard\keyboard\obj\Debug\keyboard.csproj.CoreCompileInputs.cache
+C:\Users\zhevr\source\repos\keyboard\keyboard\obj\Debug\keyboard.exe
+C:\Users\zhevr\source\repos\keyboard\keyboard\obj\Debug\keyboard.pdb
